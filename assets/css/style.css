@@ -173,7 +173,7 @@
 /* Override Utilities
 --------------------------------------------- */
 .gist {
-  font-size: 13px;
+  font-size: 9px;
   font-size: 0.8125rem;
 }
 html {
@@ -277,7 +277,7 @@ div.header div.title h1 {
   display: none;
   width: 100%;
   text-align: center;
-  font-size: 20px;
+  font-size: 13px;
   color: #ffffff;
   font-weight: 400;
   padding: 0;
@@ -334,13 +334,13 @@ div.header div.site-description {
   padding: 30px 30px 130px 30px;
 }
 div.header div.site-description h1 {
-  font-size: 20px;
+  font-size: 13px;
   line-height: 30px;
   color: #ffffff;
   padding-bottom: 10px;
 }
 div.header div.site-description p {
-  font-size: 16px;
+  font-size: 10px;
   line-height: 28px;
   color: #ffffff;
 }
@@ -352,7 +352,7 @@ div.header div.site-description ul li {
 }
 div.header div.site-description ul li a {
   color: #fff;
-  font-size: 14px;
+  font-size: 9px;
 }
 div.header div.site-description ul li a:hover,
 div.header div.site-description ul li a.active {
@@ -486,7 +486,7 @@ div.post.whole {
 }
 div.post div.post-body {
   font-weight: 400;
-  font-size: 18px;
+  font-size: 9px;
   line-height: 28px;
 }
 div.post div.post-body .post-content {
@@ -619,7 +619,7 @@ div.post div.post-body .post-content .post-pdf object {
 }
 div.post p {
   font-weight: 400;
-  font-size: 18px;
+  font-size: 9px;
   line-height: 28px;
 }
 div.post p.read-more,
@@ -636,11 +636,11 @@ div.post p.back a:hover {
 }
 div.post p.date {
   color: #999999;
-  font-size: 16px;
+  font-size: 9px;
 }
 div.post p.comments {
   color: #999999;
-  font-size: 16px;
+  font-size: 9px;
 }
 div.post p.comments a {
   color: #999999;
@@ -649,7 +649,7 @@ div.post p.comments a:hover {
   color: #1abc9c;
 }
 div.post h1 {
-  font-size: 38px;
+  font-size: 20px;
   line-height: 46px;
   padding-bottom: 10px;
 }
@@ -667,7 +667,7 @@ div.post h2 a:hover {
 div.post div.post-body ul li,
 div.post div.post-body ol li {
   font-weight: 400;
-  font-size: 18px;
+  font-size: 12px;
   line-height: 28px;
 }
 div.post div.post-info {
